@@ -1,0 +1,6 @@
+[character]
+success_symbol = "[:](bold bright-green)"
+error_symbol = "[█](fg:green bg: red)"
+
+[kubernetes]
+disabled = false
